@@ -2,7 +2,7 @@
 
 This repository includes projects using different deep learning techniques, including Deep Neural Networks (DNN), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), and Generative Adversarial Networks (GAN). I earned Udacity Deep Learning Nanodegree after completing all these projects.
 
-![certificate](https://github.com/changyc14/Udacity_Deep_Learning_Nanodegree/blob/master/certificate.pdf)
+![certificate](https://github.com/changyc14/Udacity_Deep_Learning_Nanodegree/blob/master/certificate.png)
 
 ## Projects
 * [Project 1: Deep Neural Networks]
