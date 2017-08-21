@@ -12,7 +12,8 @@ This repository includes projects using different deep learning techniques, incl
   
 * [Project 2: Image Classification (CNN)](https://github.com/changyc14/Udacity_Deep_Learning_Nanodegree/blob/master/Project_2_CNN_Image_Classification/dlnd_image_classification.ipynb)
   * Task: classify images from the CIFAR-10 dataset using a convolutional neural network.
-  * Result: 
+  * Result:
+  
   ![cnn_result](https://github.com/changyc14/Udacity_Deep_Learning_Nanodegree/blob/master/misc/CNN_result.png)
   
 * [Project 3: Generate TV Scripts (RNN)](https://github.com/changyc14/Udacity_Deep_Learning_Nanodegree/blob/master/Project_3_RNN_Generate_TV_Scripts/dlnd_tv_script_generation.ipynb)
@@ -29,22 +30,22 @@ This repository includes projects using different deep learning techniques, incl
   * Task: compete two neural networks against each other to generate realistic faces.
   * Result: 
  
-  ** real pictures (MNIST)
+  *** real pictures (MNIST)
   ![real_MNIST](https://github.com/changyc14/Udacity_Deep_Learning_Nanodegree/blob/master/misc/real_MNIST.png)
   
-  ** generated pictures at the beginning of epoch 1
+  *** generated pictures at the beginning of epoch 1
   ![generated_initial_result_MNIST](https://github.com/changyc14/Udacity_Deep_Learning_Nanodegree/blob/master/misc/generated_initial_result_MNIST.png)
   
-  ** generated pictures at the end of epoch 2
+  *** generated pictures at the end of epoch 2
   ![generated_initial_result_MNIST](https://github.com/changyc14/Udacity_Deep_Learning_Nanodegree/blob/master/misc/generated_end_result_MNIST.png)
   
-  ** real pictures (CelebA)
+  *** real pictures (CelebA)
   ![real_CelebA](https://github.com/changyc14/Udacity_Deep_Learning_Nanodegree/blob/master/misc/real_CelebA.png)
   
-  ** generated pictures at the beginning of epoch 1
+  *** generated pictures at the beginning of epoch 1
   ![generated_initial_result_CelebA](https://github.com/changyc14/Udacity_Deep_Learning_Nanodegree/blob/master/misc/generated_initial_result_CelebA.png)
   
-  ** generated pictures at the end of epoch 2
+  *** generated pictures at the end of epoch 2
   ![generated_initial_result_CelebA](https://github.com/changyc14/Udacity_Deep_Learning_Nanodegree/blob/master/misc/generated_end_result_CelebA.png)
   
   
