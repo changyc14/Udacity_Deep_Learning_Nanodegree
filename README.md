@@ -11,11 +11,13 @@ This repository includes projects using different deep learning techniques, incl
   
   ![dnn_result](https://github.com/changyc14/Udacity_Deep_Learning_Nanodegree/blob/master/misc/DNN_result.png)
   
+  
 - [Project 2: Image Classification (CNN)](https://github.com/changyc14/Udacity_Deep_Learning_Nanodegree/blob/master/Project_2_CNN_Image_Classification/dlnd_image_classification.ipynb)
   - Task: classify images from the CIFAR-10 dataset using a convolutional neural network.
   - Result:
   
-  <img src="https://github.com/changyc14/Udacity_Deep_Learning_Nanodegree/blob/master/misc/CNN_result.png =100x" alt="cnn_result" width="300" height="300">
+  <img src="https://github.com/changyc14/Udacity_Deep_Learning_Nanodegree/blob/master/misc/CNN_result.png" alt="cnn_result" width="400" height="400">
+  
   
 - [Project 3: Generate TV Scripts (RNN)](https://github.com/changyc14/Udacity_Deep_Learning_Nanodegree/blob/master/Project_3_RNN_Generate_TV_Scripts/dlnd_tv_script_generation.ipynb)
   - Task: use deep learning to generate new scripts for your favorite TV show.
